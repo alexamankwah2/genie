@@ -1,5 +1,6 @@
 # Genie2.0
 <img width="1440" alt="Screenshot 2023-08-02 at 11 31 39 AM" src="https://github.com/alexamankwah2/genie/assets/128336742/d2129441-3c8e-415c-b874-a0eb240275cc">
+
 ## Overview 
 This is a fullstack web application built with React and Tailwind CSS for the frontend and powered by OpenAI for the backend. The app leverages the powerful natural language processing capabilities of OpenAI to provide intelligent and dynamic responses to user inputs. With this app, users can interact with AI-generated content in a seamless and user-friendly manner.
 
