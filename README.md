@@ -12,6 +12,8 @@ This is a fullstack web application built with React and Tailwind CSS for the fr
 - Deployment-Ready: The app is configured with scripts and settings for easy deployment on various platforms.
 
 ## Demo
+https://github.com/alexamankwah2/genie/assets/128336742/040e08a4-5cfa-4340-9c4a-ca9fbbf7e333
+
 
 
 ## How it works
