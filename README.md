@@ -14,6 +14,8 @@ This is a fullstack web application built with React and Tailwind CSS for the fr
 ## Demo
 https://github.com/alexamankwah2/genie/assets/128336742/040e08a4-5cfa-4340-9c4a-ca9fbbf7e333
 
+[Try it](https://genie2.website/)
+
 
 
 ## How it works
